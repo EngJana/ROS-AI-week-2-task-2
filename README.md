@@ -1,5 +1,5 @@
-# ROS-AI-week1-task-2
-ROS & AI week 1 
+# ROS-AI-week-2-task-2
+ROS & AI week 2 samrt methods internship  
 task 2: manipulate with turulesim package in ROS noetic and ROS2 foxy
 
 # Turtle Movement using Keyboard
